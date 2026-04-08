@@ -22,7 +22,7 @@ I'm a junior DevOps engineer with some expertise in BackEnd development using Ja
 
 Build and operate your own CI/CD serverless application using Azure DevOps as your deployment tool, Snyk as your SCA scanner and AWS as your cloud target to use Lambda and API Gateway to serve a serverless calculator static web page.
 
-![image](https://raw.githubusercontent.com/RecursiveDeveloper/static-media-content/refs/heads/main/Serverless_Calculator.png)
+![image](https://raw.githubusercontent.com/RecursiveDeveloper/static-media-content/refs/heads/main/Serverless_Calculator-Diagram.png)
 
 ## Tech Stack 
 
